@@ -1,4 +1,4 @@
-# iterm2-ohmysh-config
+# iTerm2 and oh-my-zsh setup
 Configuration for iTerm2 and oh-my-zsh
 
 ## Steps
@@ -40,3 +40,6 @@ Suggested font is [SourceCodePro Medium for Powerline](https://github.com/powerl
 
 Open iTerm 2, open Preferences, click on the "Profiles" icon in the preferences toolbar, then select the "test" tab. Click on the "change font" button and select the `SourceCodePro Medium for Powerline` font and change the size to 14px.
 
+### Set default user
+
+To gain a little space in the terminal, you can set the `DEFAULT_USER` in the `~/.zshrc` file to your default user.
