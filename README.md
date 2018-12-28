@@ -29,7 +29,7 @@ git clone https://github.com/agnoster/agnoster-zsh-theme.git ~/.oh-my-zsh/custom
 Then, activate the theme by editing the `ZSH_THEME` env var in `~/.zshrc` to have the following content:
 
 ```bash
-ZSH_THEME="agnoster/agnoster"
+ZSH_THEME="agnoster"
 ```
 
 Close iTerm2 and open it again.
@@ -38,7 +38,7 @@ Close iTerm2 and open it again.
 
 Suggested font is [SourceCodePro Medium for Powerline](https://github.com/powerline/fonts/blob/master/SourceCodePro/Source%20Code%20Pro%20Medium%20for%20Powerline.otf). Download and activate it.
 
-Open iTerm 2, open Preferences, click on the "Profiles" icon in the preferences toolbar, then select the "test" tab. Click on the "change font" button and select the `SourceCodePro Medium for Powerline` font and change the size to 14px.
+Open iTerm 2, open Preferences, click on the "Profiles" icon in the preferences toolbar, then select the "Text" tab. Click on the "Change font" button and select the `SourceCodePro Medium for Powerline` font and change the size to 14px.
 
 ### Set default user
 
